@@ -7,10 +7,30 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens: {
+      'sm': '320px',
+      'md': '375px',
+      'lg': '1280px',
+    },
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: {
+          'white': 'hsl(0, 0%, 100%)',
+          'black': 'hsl(0, 0%, 0%)',
+          'dark-gray': 'hsl(0, 0%, 55%)',
+          'very-dark-gray': 'hsl(0, 0%, 41%)',
+        },
+      },
+      fontFamily: {
+        alata: ['var(--font-alata)', 'system-ui', 'sans-serif'],
+        josefin: ['var(--font-josefin-sans)', 'system-ui', 'sans-serif'],
+      },
+      fontSize: {
+        body: '15px',
+      },
+      fontWeight: {
+        regular: '400',   // Alata regular weight
+        light: '300',     // Josefin Sans light weight
       },
     },
   },
