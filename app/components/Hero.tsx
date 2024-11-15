@@ -14,7 +14,7 @@ function Hero() {
 
 			<Image
 				src="/images/desktop/image-hero.jpg"
-				sizes="(max-width: 1280px) 100vw"
+				sizes="(max-width: 1440px) 100vw"
 				fill
 				alt="hero-img-desktop"
 				className="object-cover hidden lg:block"

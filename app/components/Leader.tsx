@@ -9,7 +9,7 @@ function Leader() {
         </div>
 
         <div className='relative my-6 p-6 h-[400px] hidden lg:block lg:w-[60%]  '>
-            <Image src='/images/desktop/image-interactive.jpg' sizes='(max-width: 1280px) 60vw, 100vw' fill alt='vr man'  />
+            <Image src='/images/desktop/image-interactive.jpg' sizes='(max-width: 1440px) 60vw, 100vw' fill alt='vr man'  />
         </div>
 
         <div className='text-center lg:absolute lg:bottom-0 lg:bg-white lg:w-[40%] lg:right-0 lg:mr-[10%] lg:pt-[3.5rem] lg:pl-[3rem]'>

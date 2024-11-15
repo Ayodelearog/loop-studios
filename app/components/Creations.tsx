@@ -126,7 +126,7 @@ const Creations = () => {
 			</div>
 
 			<div className="hidden w-full lg:mt-10 lg:grid lg:grid-rows-2 lg:grid-cols-4 lg:gap-4 lg:px-[10%] ">
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-deep-earth.jpg"
 						fill
@@ -140,7 +140,7 @@ const Creations = () => {
 					</p>
 				</div>
 
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-night-arcade.jpg"
 						fill
@@ -153,7 +153,7 @@ const Creations = () => {
 						<span>ARCADE</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-soccer-team.jpg"
 						fill
@@ -166,7 +166,7 @@ const Creations = () => {
 						<span>TEAM VR</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-grid.jpg"
 						fill
@@ -179,7 +179,7 @@ const Creations = () => {
 						<span>GRID</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-from-above.jpg"
 						fill
@@ -192,7 +192,7 @@ const Creations = () => {
 						<span>ABOVE VR</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-pocket-borealis.jpg"
 						fill
@@ -205,7 +205,7 @@ const Creations = () => {
 						<span>BOREALIS</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-curiosity.jpg"
 						fill
@@ -218,7 +218,7 @@ const Creations = () => {
 						<span>CURIOSITY</span>
 					</p>
 				</div>
-				<div className="w-full relative h-[430px] ">
+				<div className="w-full relative h-[490px] ">
 					<Image
 						src="/images/desktop/image-fisheye.jpg"
 						fill

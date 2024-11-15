@@ -7,7 +7,7 @@ import Footer from "./components/ui/Footer";
 
 export default function Home() {
 	return (
-		<main className="max-w-[375px] lg:max-w-[1280px] relative  m-auto">
+		<main className="max-w-[375px] lg:max-w-[1440px] relative  m-auto">
 			<Hero />
 			<Leader />
 			<Creations />
